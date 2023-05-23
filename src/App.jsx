@@ -8,7 +8,7 @@ function App() {
       <header>
         <div className="d-flex align-items-center pb-3 mb-4 border-bottom">
           <Link
-            to="/lista"
+            to="/"
             className="d-flex align-items-center link-body-emphasis text-decoration-none"
           >
             <span className="fs-4">Lista de Compras</span>
